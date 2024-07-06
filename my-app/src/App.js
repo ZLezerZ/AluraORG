@@ -15,22 +15,22 @@ function App() {
       equipo: "Front End",
       foto: "https://github.com/ZLezerZ.png",
       nombre: "Lezer Zeta",
-      puesto: "Imaginador de Tierras",
+      puesto: "Imaginador de Tierras Lejanas",
       fav: true
     },
     {
       id: uuidv4(),
-      nombre: "Julia Mágica",
-      puesto: "Dictadora de la Verdad y la Razón",
-      foto: "https://github.com/juliascode96.png",
+      nombre: "Blanco Dumblelord",
+      puesto: "Redactor de verdades universales",
+      foto: "https://th.bing.com/th/id/OIG2.WicMGtMJDLtEW6BCf6m3?w=1024&h=1024&rs=1&pid=ImgDetMain",
       equipo: "Programación",
       fav: true
     },
     {
       id: uuidv4(),
-      nombre: "Agustín Conde",
-      puesto: "Promulgador del Activismo",
-      foto: "https://github.com/agusconde18.png",
+      nombre: "Severo Snop",
+      puesto: "Investigador de alquimia móvil",
+      foto: "https://th.bing.com/th/id/OIG3.ePO4sW_kxBxqjjjStnsf?w=1024&h=1024&rs=1&pid=ImgDetMain",
       equipo: "Móvil",
       fav: true
     },
